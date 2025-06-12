@@ -1,0 +1,8 @@
+{
+  "name": "games-portal",
+  "private": true,
+  "workspaces": [
+    "backend",
+    "frontend"
+  ]
+}
